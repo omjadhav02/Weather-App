@@ -1,0 +1,10 @@
+.InfoBox{
+    text-align: center;
+}
+.cardContainer{
+    display: flex;
+    justify-content: center;
+}
+h4{
+    font-family: 'Courier New', Courier, monospace;
+}
